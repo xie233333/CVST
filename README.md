@@ -1,6 +1,6 @@
 # CVST
 
-CVST is a PyTorch implementation of learned video semantic communication over wireless MIMO channels. It combines an image model for the initial frame with motion and context coding for subsequent video frames.
+CVST is a PyTorch implementation of the accepted IEEE TWC paper "Context video semantic transmission with variable length and rate coding over MIMO channels". It combines an image model for the initial frame with motion and context coding for subsequent video frames.
 
 ## Project structure
 
